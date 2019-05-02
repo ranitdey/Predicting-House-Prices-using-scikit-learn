@@ -4,7 +4,7 @@ Predicting USA house / real estate prices using Linear Regression (via scikit-le
 
 ## Approach:
 
-- load Pandas DataFrame containing ( housing data retrieved.
+- load Pandas DataFrame containing housing data retrieved.
 - do some simple data exploration / visualisation
 - remove non-numeric data.
 - split the data in train and test sets (+ normalise independent variables where required) 
